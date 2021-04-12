@@ -1,4 +1,4 @@
-# TransferLearnigMethods
+# TransferLearningMethods
 Here i have used Transfer Learning method to predict whether a person is wearing a mask or not,
 So i used 3 transfer learning methods,namely VGG architecture (VGG16,VGG19),Resnet50(Residual Networks) and Inception Model
 The dataset which is used is Maskdetection dataset,which one can download easily from kaggle,so here i have not used images,
